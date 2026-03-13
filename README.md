@@ -3,7 +3,7 @@ QuickBite Crisis Recovery Analysis is a data analytics project focused on unders
 
 **🍔 QuickBite Crisis Recovery Analytics**
 
-**📌 Business Problem**
+**📌 Business Problem** 
 QuickBite Express, a Bengaluru-based food delivery startup, experienced a major operational crisis in June 2025 after a viral social media incident raised concerns about food safety and delivery reliability. As a result, the platform saw a sharp rise in order cancellations, declining customer trust, and reduced order volume.
 The company needed a data-driven approach to understand the crisis impact and identify actionable strategies to stabilize operations and recover customer confidence.
 
