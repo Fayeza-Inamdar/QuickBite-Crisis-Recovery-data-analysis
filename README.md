@@ -9,6 +9,7 @@ QuickBite Express, a Bengaluru-based food delivery startup, experienced a major 
 The company needed a data-driven approach to understand the crisis impact and identify actionable strategies to stabilize operations and recover customer confidence.
 
 
+
 **Project Objective**
 
 - This project analyzes order and operational data to:
