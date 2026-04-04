@@ -10,7 +10,7 @@ The company needed a data-driven approach to understand the crisis impact and id
 
 ![image alt](https://github.com/Fayeza-Inamdar/QuickBite-Crisis-Recovery-data-analysis/blob/main/Page%201.png)
 
--------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 **Project Objective**
 
