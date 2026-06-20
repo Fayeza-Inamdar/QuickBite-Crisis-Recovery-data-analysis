@@ -1,5 +1,5 @@
 # QuickBite-Crisis-Recovery-Analysis
-QuickBite Crisis Recovery Analysis is a data analytics project focused on understanding the impact of an operational crisis on a food delivery startup. Using Power BI and Excel, the project analyzes order trends, cancellation patterns, delivery performance, and customer behavior during the crisis period.
+QuickBite Crisis Recovery Analysis is focused on understanding the impact of an operational crisis on a food delivery startup. Using Power BI and Excel, the project analyzes order trends, cancellation patterns, delivery performance, and customer behavior during the crisis period.
 
 **🍔 QuickBite Crisis Recovery Analytics**
 
